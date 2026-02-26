@@ -1,0 +1,25 @@
+{
+  "name": "pollinations2api",
+  "version": "1.0.0",
+  "description": "A comprehensive proxy server that implements the full Pollinations API with OpenAI compatibility. This server acts as an intermediary to the official Pollinations API at `https://gen.pollinations.ai`.",
+  "main": "test_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hung319/pollinations2api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hung319/pollinations2api/issues"
+  },
+  "homepage": "https://github.com/hung319/pollinations2api#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.1",
+    "bun-types": "^1.3.10"
+  }
+}
